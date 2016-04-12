@@ -1,4 +1,4 @@
-package com.yc.strategy.test;
+package com.yc.strategy.role;
 
 import com.yc.strategy.methodinterface.AttackJYSG;
 import com.yc.strategy.methodinterface.AttackXLSBZ;
@@ -7,9 +7,6 @@ import com.yc.strategy.methodinterface.Display1;
 import com.yc.strategy.methodinterface.Display2;
 import com.yc.strategy.methodinterface.RunJCTQ;
 import com.yc.strategy.methodinterface.RunYWD;
-import com.yc.strategy.role.Role;
-import com.yc.strategy.role.RoleA;
-import com.yc.strategy.role.RoleB;
 
 /**
  *@Author Administrator
